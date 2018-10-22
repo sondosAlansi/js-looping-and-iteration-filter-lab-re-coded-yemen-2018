@@ -19,6 +19,7 @@ function fuzzyMatch(drivers,letter){
    return drive ;
   
 }
+<<<<<<< HEAD
 
 function matchName(drivers,drivername){
   const drive=[];
@@ -30,3 +31,5 @@ function matchName(drivers,drivername){
    return drive ;
   
 }
+=======
+>>>>>>> 09656dd6cc40cc865c1a66edc7624a7474334648
